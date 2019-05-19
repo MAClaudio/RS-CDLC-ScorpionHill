@@ -1,0 +1,17 @@
+
+*.psarc
+
+*.ogg
+
+guitar\.ogg\.backup
+
+guitar\.ogg\.lastsaved
+
+*.bak
+
+*.mp3
+
+Wwise/*
+*.wav
+
+*.wem
