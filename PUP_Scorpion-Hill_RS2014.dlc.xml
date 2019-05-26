@@ -14,11 +14,11 @@
         <d4p1:FifthsAndOctaves>0</d4p1:FifthsAndOctaves>
         <d4p1:FingerPicking>0</d4p1:FingerPicking>
         <d4p1:FretHandMutes>0</d4p1:FretHandMutes>
-        <d4p1:Harmonics>0</d4p1:Harmonics>
+        <d4p1:Harmonics>1</d4p1:Harmonics>
         <d4p1:Hopo>1</d4p1:Hopo>
         <d4p1:NonStandardChords>1</d4p1:NonStandardChords>
         <d4p1:OpenChords>1</d4p1:OpenChords>
-        <d4p1:PalmMutes>0</d4p1:PalmMutes>
+        <d4p1:PalmMutes>1</d4p1:PalmMutes>
         <d4p1:PickDirection>0</d4p1:PickDirection>
         <d4p1:PinchHarmonics>0</d4p1:PinchHarmonics>
         <d4p1:PowerChords>0</d4p1:PowerChords>
@@ -29,7 +29,7 @@
         <d4p1:Sustain>1</d4p1:Sustain>
         <d4p1:Syncopation>0</d4p1:Syncopation>
         <d4p1:Tapping>0</d4p1:Tapping>
-        <d4p1:Tremolo>0</d4p1:Tremolo>
+        <d4p1:Tremolo>1</d4p1:Tremolo>
         <d4p1:TwoFingerPicking>0</d4p1:TwoFingerPicking>
         <d4p1:UnpitchedSlides>0</d4p1:UnpitchedSlides>
         <d4p1:Vibrato>0</d4p1:Vibrato>
@@ -46,8 +46,8 @@
       <CapoFret>0</CapoFret>
       <CustomFont>false</CustomFont>
       <FontSng i:nil="true" />
-      <Id>79729581-4e6b-416d-9f57-76e1c6173607</Id>
-      <MasterId>613862759</MasterId>
+      <Id>ee247c8f-431c-41b4-872e-a17602ccd948</Id>
+      <MasterId>1033580512</MasterId>
       <Metronome>None</Metronome>
       <PluckedType>NotPicked</PluckedType>
       <Represent>true</Represent>
@@ -55,12 +55,12 @@
       <ScrollSpeed>13</ScrollSpeed>
       <Sng2014 xmlns:d4p1="http://schemas.datacontract.org/2004/07/RocksmithToolkitLib.Sng2014HSL" i:nil="true" />
       <SongFile xmlns:d4p1="http://schemas.datacontract.org/2004/07/RocksmithToolkitLib.DLCPackage.AggregateGraph">
-        <d4p1:UUID>13b3d183-5132-4d23-a69c-239cdd5fe74b</d4p1:UUID>
+        <d4p1:UUID>e799ae8b-b088-4918-93bb-08f758aca021</d4p1:UUID>
         <d4p1:File></d4p1:File>
         <d4p1:Version i:nil="true" />
       </SongFile>
       <SongXml xmlns:d4p1="http://schemas.datacontract.org/2004/07/RocksmithToolkitLib.DLCPackage.AggregateGraph">
-        <d4p1:UUID>4926e1a8-8d83-47c3-9b77-42fd83d9ff91</d4p1:UUID>
+        <d4p1:UUID>220e5431-5ccd-42bf-b554-a4e39205f274</d4p1:UUID>
         <d4p1:File>PART REAL_GUITAR_RS2.xml</d4p1:File>
         <d4p1:Version i:nil="true" />
       </SongXml>
@@ -171,7 +171,7 @@
   </TonesRS2014>
   <ToolkitInfo>
     <PackageAuthor i:nil="true" />
-    <PackageComment>(Remastered by CDLC Creator) (Remastered by CDLC Creator) (Remastered by CDLC Creator) (Remastered by CDLC Creator)</PackageComment>
+    <PackageComment>(Remastered by CDLC Creator) (Remastered by CDLC Creator) (Remastered by CDLC Creator) (Remastered by CDLC Creator) (Remastered by CDLC Creator)</PackageComment>
     <PackageRating i:nil="true" />
     <PackageVersion>1</PackageVersion>
     <ToolkitVersion i:nil="true" />

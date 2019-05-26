@@ -15,3 +15,5 @@ Wwise/*
 *.wav
 
 *.wem
+
+memwatch\.log
